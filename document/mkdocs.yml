@@ -1,0 +1,13 @@
+site_name: Foo Project
+site_url: https://example.com/foo
+
+theme:
+    name: mkdocs
+    locale: ja
+    highlightjs: true
+
+markdown_extensions:
+    toc:
+        permalink: true
+    admonition: {}
+
