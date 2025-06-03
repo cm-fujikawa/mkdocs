@@ -1,4 +1,4 @@
-FROM alpine:3.19.3
+FROM alpine:3.22.0
 
 WORKDIR /document
 RUN apk update && \
